@@ -1,1 +1,1 @@
-[Insula_Marian_Baneasa](https://3dviewer.net/#model=https://github.com/Kuziini-product/Insula_Marian_Baneasa/blob/main/Insula.obj)
+[Insula_Marian_Baneasa](https://3dviewer.net/#model=https://raw.githubusercontent.com/Kuziini-product/Insula_Marian_Baneasa/main/Insula.obj,https://raw.githubusercontent.com/Kuziini-product/Insula_Marian_Baneasa/main/Insula.mtl,https://raw.githubusercontent.com/Kuziini-product/Insula_Marian_Baneasa/main/K594_SU.jpg,https://raw.githubusercontent.com/Kuziini-product/Insula_Marian_Baneasa/main/U540_ST9.jpg)
